@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
-//abstraction
+
+//abstraction to hiding unneecessary implementation >>
 
 class Car{
     public:

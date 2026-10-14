@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 
+
+//encapsulation for data hiding >>
+
 class car{
     private:
     int totalTravaled;
